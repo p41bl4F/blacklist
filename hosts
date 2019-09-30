@@ -1,16 +1,21 @@
 #blocklist
 127.0.0.1	xml.realtime-bid.com
-127.0.0.1	world-wide-new.com
-127.0.0.1	vidcpm.com
-127.0.0.1	knowtool.com
-127.0.0.1	fastly-insights.com
-127.0.0.1	cbjvizmy.com
+127.0.0.1	www.world-wide-new.com
+127.0.0.1	www.vidcpm.com
+127.0.0.1	www.knowtool.com
+127.0.0.1	www.fastly-insights.com
+127.0.0.1	www.cbjvizmy.com
 127.0.0.1	uod2quk646.com
+127.0.0.1	tracker.ex.ua
+127.0.0.1	vaes.amazon-adsystem.com
 127.0.0.1	determinedpare.com
+127.0.0.1	roslin.determinedpare.com
 127.0.0.1	roitrack.net
 127.0.0.1	elegantsaha.com
+127.0.0.1	hjr9ds2wdx.elegantsaha.com
 127.0.0.1	gexperiments4.com
 127.0.0.1	cjl58f3agc.com
+127.0.0.1	cdn.taplytics.com
 127.0.0.1	taplytics.com
 127.0.0.1	cliqz.com
 127.0.0.1	buybtcasset.com
