@@ -1,4 +1,8 @@
-#blocklist
+#HOSTS
+127.0.0.1	localhost
+::1	localhost
+
+#blacklist
 127.0.0.1	xml.realtime-bid.com
 127.0.0.1	www.world-wide-new.com
 127.0.0.1	www.vidcpm.com
