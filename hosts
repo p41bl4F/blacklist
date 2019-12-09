@@ -25,14 +25,11 @@
 127.0.0.1	buybtcasset.com
 127.0.0.1	appdatum.com
 127.0.0.1	afflink.co
-127.0.0.1	ipromote.com
 127.0.0.1	metacrawler.com
 127.0.0.1	mobileapptracking.com
 127.0.0.1	runative-syndicate.com
 127.0.0.1	sajari.net
-127.0.0.1	tappx.com
 127.0.0.1	we-are-adot.com
-127.0.0.1	zergnet.com
 127.0.0.1	scout-cdn.salesloft.com
 127.0.0.1	cakecdn.com
 127.0.0.1	getcake.com
@@ -128,7 +125,7 @@
 127.0.0.1	uptime.com
 127.0.0.1	rum.uptime.com
 127.0.0.1	cmnp.grnyrmkzv.xyz
-127.0.0.1 	onclicksuper.com
+127.0.0.1 onclicksuper.com
 127.0.0.1	k.r66net.com
 127.0.0.1	xvzaq5sulx.s.ad6media.fr
 127.0.0.1	pushanert.com
@@ -159,6 +156,118 @@
 127.0.0.1	1affmedia.com
 127.0.0.1	aczepi.quarren.co
 127.0.0.1	qrn.media-bucket.com
+
+## IPROMOTE
+127.0.0.1 ipromote.com
+127.0.0.1 iad5.ipromote.com
+127.0.0.1 search.ipromote.com
+127.0.0.1 cdn.ipromote.com
+127.0.0.1 sfo1.ipromote.com
+127.0.0.1 i.ipromote.com
+127.0.0.1 iad7.ipromote.com
+127.0.0.1 servedby.ipromote.com
+127.0.0.1 sfo3.ipromote.com
+127.0.0.1 landingpages.ipromote.com
+127.0.0.1 iad4.ipromote.com
+
+## INSTABUG
+127.0.0.1 instabug.com
+127.0.0.1 api.instabug.com
+127.0.0.1 408007904.instabug.com
+127.0.0.1 3515714.instabug.com
+127.0.0.1 9204637.instabug.com
+127.0.0.1 408154552.instabug.com
+127.0.0.1 connect.instabug.com
+127.0.0.1 affiliates.instabug.com
+127.0.0.1 docs.instabug.com
+127.0.0.1 try.instabug.com
+
+## INMOMENT
+127.0.0.1 inmoment.com
+127.0.0.1 dispawsusva.inmoment.com
+127.0.0.1 intercept.inmoment.com
+127.0.0.1 get.inmoment.com
+127.0.0.1 app.inmoment.com
+127.0.0.1 xe.inmoment.com
+127.0.0.1 interpect-client.inmoment.com
+127.0.0.1 audiaftersales.inmoment.com
+127.0.0.1 tellmands.inmoment.com
+127.0.0.1 app-community.inmoment.com
+
+## ADPXL
+127.0.0.1 adpxl.co
+127.0.0.1 wpg.adpxl.co
+127.0.0.1 fl.adpxl.co
+127.0.0.1 ml.adpxl.co
+127.0.0.1 trk.adpxl.co
+127.0.0.1 adpxljs.adpxl.co
+
+## APPLVN
+127.0.0.1 applvn.com
+127.0.0.1 rt.applvn.com
+127.0.0.1 d.applvn.com
+127.0.0.1 a.applvn.com
+127.0.0.1 ms.applvn.com
+
+## TAPPX
+127.0.0.1 tappx.com
+127.0.0.1 fpx.api.tappx.com
+127.0.0.1 ffq.api.tappx.com
+127.0.0.1 www.tappx.com
+127.0.0.1 regs.tappx.com
+127.0.0.1 api.tappx.com
+127.0.0.1 blog.tappx.com
+127.0.0.1 track.tappx.com
+127.0.0.1 imp2.track.tappx.com
+127.0.0.1 ssp.api.tappx.com
+127.0.0.1 performance.tappx.com
+
+## ZERGNET
+127.0.0.1 zergnet.com
+127.0.0.1 static.zergnet.com
+127.0.0.1 simg.zergnet.com
+127.0.0.1 img5.zergnet.com
+127.0.0.1 img2.zergnet.com
+127.0.0.1 img.zergnet.com
+127.0.0.1 img3.zergnet.com
+127.0.0.1 img4.zergnet.com
+127.0.0.1 img1.zergnet.com
+127.0.0.1 ox-d.zergnet.com
+
+## CRITEO
+127.0.0.1 criteo.com
+127.0.0.1 ns1.criteo.com
+127.0.0.1 ns2.criteo.com
+127.0.0.1 ns3.criteo.com
+127.0.0.1 ns4.criteo.com
+127.0.0.1 ns5.criteo.com
+127.0.0.1 ns6.criteo.com
+127.0.0.1 ns7.criteo.com
+127.0.0.1 ns8.criteo.com
+127.0.0.1 ns9.criteo.com
+127.0.0.1 ns10.criteo.com
+127.0.0.1 ns11.criteo.com
+127.0.0.1 ns12.criteo.com
+127.0.0.1 ns3.criteo.com
+127.0.0.1 ns4.criteo.com
+127.0.0.1 ns5.criteo.com
+127.0.0.1 ns6.criteo.com
+127.0.0.1 ns7.criteo.com
+127.0.0.1 rtax.criteo.com
+127.0.0.1 registration.criteo.com
+127.0.0.1 support.criteo.com
+127.0.0.1 cas.criteo.com
+127.0.0.1 cat.criteo.com
+127.0.0.1 static.criteo.com
+127.0.0.1 ebs.criteo.com
+127.0.0.1 gum.criteo.com
+127.0.0.1 b.criteo.com
+127.0.0.1 widget.criteo.com
+127.0.0.1 dynamic.criteo.com
+
+
+
+## MOBILEAPPTRACKING
 127.0.0.1	191307.engine.mobileapptracking.com
 127.0.0.1	192594.engine.mobileapptracking.com
 127.0.0.1	195043.engine.mobileapptracking.com
