@@ -155,7 +155,17 @@
 127.0.0.1 router.allure-ng.net
 127.0.0.1 1affmedia.com
 127.0.0.1 aczepi.quarren.co
-127.0.0.1 qrn.media-bucket.com  
+127.0.0.1 qrn.media-bucket.com
+
+127.0.0.1 abmr.net
+127.0.0.1 flingwebads.com
+127.0.0.1 foxnetworks.com
+127.0.0.1 invitemedia.com
+127.0.0.1 nielsen-online.com
+127.0.0.1 sharethis.com
+127.0.0.1 acoda.net
+127.0.0.1 themig.com
+127.0.0.1 yldmgrimg.net
 
 ## ADMETRICS
 127.0.0.1 www.admetrics.io
@@ -233,6 +243,18 @@
 127.0.0.1 a.applvn.com
 127.0.0.1 ms.applvn.com
 
+## LINKTRACKR
+127.0.0.1 www.linktrackr.com
+127.0.0.1 abn.linktrackr.com
+127.0.0.1 nodeposit.linktrackr.com
+127.0.0.1 ns2.linktrackr.com
+127.0.0.1 daddy380.linktrackr.com
+127.0.0.1 minifishg.linktrackr.com
+127.0.0.1 ventureforth.linktrackr.com
+127.0.0.1 shuth.linktrackr.com
+127.0.0.1 cmvn13.linktrackr.com
+127.0.0.1 ww3.linktrackr.com
+
 ## TAPPX
 127.0.0.1 tappx.com
 127.0.0.1 fpx.api.tappx.com
@@ -257,6 +279,18 @@
 127.0.0.1 img4.zergnet.com
 127.0.0.1 img1.zergnet.com
 127.0.0.1 ox-d.zergnet.com
+
+## BUYSELLADS
+127.0.0.1 www.buysellads.com
+127.0.0.1 buy.buysellads.com
+127.0.0.1 servedby-buysellads.com
+127.0.0.1 m.servedby-buysellads.com
+127.0.0.1 s.servedby-buysellads.com
+127.0.0.1 assets.servedby-buysellads.com
+127.0.0.1 ss.servedby-buysellads.com
+127.0.0.1 static.servedby-buysellads.com
+127.0.0.1 
+127.0.0.1 
 
 ## CRITEO
 127.0.0.1 criteo.com
