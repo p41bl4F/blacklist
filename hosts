@@ -3,7 +3,9 @@
 ::1	localhost
 
 #blacklist
+127.0.0.1 realtime-bid.com
 127.0.0.1	xml.realtime-bid.com
+127.0.0.1 static.realtime-bid.com
 127.0.0.1	www.world-wide-new.com
 127.0.0.1	www.vidcpm.com
 127.0.0.1	www.knowtool.com
@@ -67,8 +69,6 @@
 127.0.0.1	adm-landing.admanmedia.com
 127.0.0.1	www.admaxim.com
 127.0.0.1	metrics.nt.vc
-127.0.0.1	www.admetrics.io
-127.0.0.1	admetrics.io
 127.0.0.1	www.admotion.com
 127.0.0.1	www.cheq.ai
 127.0.0.1	www.timeincuk.com
@@ -157,6 +157,17 @@
 127.0.0.1	aczepi.quarren.co
 127.0.0.1	qrn.media-bucket.com
 
+## ADMETRICS
+127.0.0.1	www.admetrics.io
+127.0.0.1	admetrics.io
+127.0.0.1 pypi.admetrics.io
+127.0.0.1 airflow.admetrics.io
+127.0.0.1 dash.admetrics.io
+127.0.0.1 ucs.admetrics.io
+127.0.0.1 te.admetrics.io
+127.0.0.1 behemoth.admetrics.io
+127.0.0.1 webstats.admetrics.io
+
 ## IPROMOTE
 127.0.0.1 ipromote.com
 127.0.0.1 iad5.ipromote.com
@@ -169,6 +180,19 @@
 127.0.0.1 sfo3.ipromote.com
 127.0.0.1 landingpages.ipromote.com
 127.0.0.1 iad4.ipromote.com
+
+## APPSFLYER
+127.0.0.1 appsflyer.com
+127.0.0.1 events.appsflyer.com
+127.0.0.1 launches.appsflyer.com
+127.0.0.1 stats.appsflyer.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 statsgoogle.appsflyer.com
+127.0.0.1 app.appsflyer.com
+127.0.0.1 conversions.appsflyer.com
+127.0.0.1 cdn.appsflyer.com
+127.0.0.1 impression.appsflyer.com
+127.0.0.1 monitorsdk.appsflyer.com
 
 ## INSTABUG
 127.0.0.1 instabug.com
