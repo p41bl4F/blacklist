@@ -174,8 +174,31 @@
 127.0.0.1 flingwebads.com
 127.0.0.1 mail-ads.google.com
 127.0.0.1 ads.yieldmo.com
+
+## CN
 127.0.0.1 beian.gov.cn
 127.0.0.1 www.beian.gov.cn
+127.0.0.1 www.investgo.cn
+127.0.0.1 www.ipr.gov.cn
+127.0.0.1 gov.ec.com.cn
+127.0.0.1 www.xns315.com
+127.0.0.1 www.mobec.cn
+127.0.0.1 www.paa.net
+127.0.0.1 www.gfapki.com.cn
+127.0.0.1 www.gopay.com.cn
+127.0.0.1 www.etrades.cn
+127.0.0.1 www.bcpcn.com
+127.0.0.1 api.bshare.cn
+127.0.0.1 www.cifit.cn
+127.0.0.1 www.cidschina.com
+127.0.0.1 www.100buy.com
+127.0.0.1 www.12312.gov.cn
+127.0.0.1 jgmy.mofcom.gov.cn
+127.0.0.1 jm.ec.com.cn
+127.0.0.1 www.ciecctraining.com
+127.0.0.1 ciecc.mofcom.gov.cn
+127.0.0.1 quanqiusou.ec.com.cn
+127.0.0.1 cyylm.ec.com.cn
 
 ## AUGUR
 127.0.0.1 augur.io
