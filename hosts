@@ -202,6 +202,7 @@
 127.0.0.1 cyylm.ec.com.cn
 
 ## ADVERTISING
+#S
 127.0.0.1 advertising.com
 127.0.0.1 guce.advertising.com
 127.0.0.1 beap.advertising.com
@@ -303,8 +304,10 @@
 127.0.0.1 opera3-servedby.advertising.com
 127.0.0.1 secure.advertising.com
 127.0.0.1 ee01job.advertising.com
+#E
 
 ## TRAFFICMANAGER
+#S
 127.0.0.1 trafficmanager.net
 127.0.0.1 nmbbanknepal.trafficmanager.net
 127.0.0.1 suppliers-tracking-live-api.trafficmanager.net
@@ -406,6 +409,7 @@
 127.0.0.1 bingshoppingtool-t2app-prod.trafficmanager.net
 127.0.0.1 azurehealthprd.trafficmanager.net
 127.0.0.1 msexpense2courierserviceuat.trafficmanager.net
+#E
 
 ## AUGUR
 127.0.0.1 augur.io
@@ -558,6 +562,7 @@
 127.0.0.1 ci.placer.io
 
 ## NEWRELIC
+#S
 127.0.0.1 newrelic.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 support.newrelic.com
@@ -654,6 +659,7 @@
 127.0.0.1 collector-222.newrelic.com
 127.0.0.1 collector-293.newrelic.com
 127.0.0.1 public-service-gateway.dr.newrelic.com
+#E
 
 ## DIGILANT
 127.0.0.1 digilant.com
@@ -683,6 +689,7 @@
 127.0.0.1 forge.sentry.io
 
 ## WEBORAMA
+#S
 127.0.0.1 weborama.com
 127.0.0.1 www.weborama.com
 127.0.0.1 extranet.weborama.com
@@ -742,8 +749,10 @@
 127.0.0.1 adcash.ndf.weborama.com
 127.0.0.1 wcm.weborama.com
 127.0.0.1 adperf.ui.weborama.com
+#E
 
 ## MOATADS
+#S
 127.0.0.1 moatads.com
 127.0.0.1 logtest.moatads.com
 127.0.0.1 apx.moatads.com
@@ -845,6 +854,7 @@
 127.0.0.1 sej.moatads.com
 127.0.0.1 mail.moatads.com
 127.0.0.1 1z.moatads.com
+#E
 
 ## FOXNETWORKS
 127.0.0.1 foxnetworks.com
@@ -858,6 +868,7 @@
 127.0.0.1 my.foxnetworks.com
 
 ## MEDIAMATH
+#S
 127.0.0.1 mediamath.com
 127.0.0.1 www.mediamath.com
 127.0.0.1 byoa.mediamath.com
@@ -927,8 +938,10 @@
 127.0.0.1 cs.mediamath.com
 127.0.0.1 ewr-rtsdb-x1.mediamath.com
 127.0.0.1 t1apps.mediamath.com
+#E
 
 ## RUBICONPROJECT
+#S
 127.0.0.1 rubiconproject.com
 127.0.0.1 fastlane-adv.rubiconproject.com
 127.0.0.1 pixel-eu.rubiconproject.com
@@ -1030,6 +1043,7 @@
 127.0.0.1 toastmasters.rubiconproject.com
 127.0.0.1 resources.rubiconproject.com
 127.0.0.1 deal-management.rubiconproject.com
+#E
 
 ## MPARTICLE
 127.0.0.1 mparticle.com
@@ -1101,6 +1115,7 @@
 127.0.0.1 adaptv.pixel.invitemedia.com
 
 ## PUBMATIC
+#S
 127.0.0.1 pubmatic.com
 127.0.0.1 showads.pubmatic.com
 127.0.0.1 track.pubmatic.com
@@ -1202,6 +1217,7 @@
 127.0.0.1 spug33000.pubmatic.com
 127.0.0.1 pugm22000nfc.pubmatic.com
 127.0.0.1 showads22000nfc.pubmatic.com
+#E
 
 ## VIDEOLOGYGROUP
 127.0.0.1 videologygroup.com
@@ -1247,6 +1263,7 @@
 127.0.0.1 click.support.nielsen-online.com
 
 ## SHARETHIS
+#S
 127.0.0.1 sharethis.com
 127.0.0.1 wd-edge.sharethis.com
 127.0.0.1 sd.sharethis.com
@@ -1322,6 +1339,7 @@
 127.0.0.1 adops.sharethis.com
 127.0.0.1 btr.sharethis.com
 127.0.0.1 wp-uploads.sharethis.com
+#E
 
 ## THEMIG
 127.0.0.1 themig.com
@@ -1466,6 +1484,7 @@
 127.0.0.1 failover.platform161.com
 
 ## APPNEXUS
+#S
 127.0.0.1 www.appnexus.com
 127.0.0.1 blog.appnexus.com
 127.0.0.1 console.appnexus.com
@@ -1566,6 +1585,7 @@
 127.0.0.1 01.exch-proxy.nym2.appnexus.com
 127.0.0.1 06-exch-nym2.ad.corp.appnexus.com
 127.0.0.1 rt.lax1.appnexus.com
+#E
 
 ## TAPPX
 127.0.0.1 tappx.com
@@ -1594,6 +1614,7 @@
 127.0.0.1 ox-d.zergnet.com
 
 ## BUYSELLADS
+#S
 127.0.0.1 www.buysellads.com
 127.0.0.1 servedby-buysellads.com
 127.0.0.1 m.servedby-buysellads.com
@@ -1658,6 +1679,7 @@
 127.0.0.1 ads.buysellads.com
 127.0.0.1 static.buysellads.com
 127.0.0.1 track.buysellads.com
+#E
 
 ## DATASAVANNAH
 127.0.0.1 flightassets.datasavannah.com
