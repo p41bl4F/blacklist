@@ -1485,6 +1485,7 @@
 
 ## APPNEXUS
 #S
+127.0.0.1 appnexus.com
 127.0.0.1 www.appnexus.com
 127.0.0.1 blog.appnexus.com
 127.0.0.1 console.appnexus.com
@@ -1615,6 +1616,7 @@
 
 ## BUYSELLADS
 #S
+127.0.0.1 buysellads.com
 127.0.0.1 www.buysellads.com
 127.0.0.1 servedby-buysellads.com
 127.0.0.1 m.servedby-buysellads.com
