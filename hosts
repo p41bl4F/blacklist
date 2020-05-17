@@ -178,6 +178,10 @@
 127.0.0.1 infopicked.com
 127.0.0.1 lp.powerapp.download
 127.0.0.1 rotumal.com
+127.0.0.1 kenomal.com
+127.0.0.1 www.tribe.nu
+127.0.0.1 tribe.nu
+127.0.0.1 phoossax.net
 
 ## CN
 127.0.0.1 beian.gov.cn
@@ -547,6 +551,16 @@
 127.0.0.1 upload-facethumbs.clearview.ai
 127.0.0.1 fs002.clearview.ai
 127.0.0.1 l.clearview.ai
+127.0.0.1 traces.clearview.ai
+
+## IUIUDUIID.CLUB
+127.0.0.1 iuiuduiid.club
+127.0.0.1 r.iuiuduiid.club
+127.0.0.1 t.iuiuduiid.club
+127.0.0.1 e.iuiuduiid.club
+127.0.0.1 m.iuiuduiid.club
+127.0.0.1 o.iuiuduiid.club
+127.0.0.1 s.iuiuduiid.club
 
 ## PLACER.IO
 127.0.0.1 placer.io
@@ -1116,6 +1130,24 @@
 127.0.0.1 ca.lijit.pixel.invitemedia.com
 127.0.0.1 contextweb.pixel.invitemedia.com
 127.0.0.1 adaptv.pixel.invitemedia.com
+
+## MB-COSMOS
+127.0.0.1 mb-cosmos.com
+127.0.0.1 mb-prod-mother.mb-cosmos.com
+127.0.0.1 hubble.mb-cosmos.com
+127.0.0.1 blitz.mb-cosmos.com
+127.0.0.1 mb-prod-meps.mb-cosmos.com
+127.0.0.1 staging-hubble.mb-cosmos.com
+127.0.0.1 mb-stage-hubble.mb-cosmos.com
+127.0.0.1 mb-stage-meps.mb-cosmos.com
+127.0.0.1 static-blitz.mb-cosmos.com
+127.0.0.1 static-hubble.mb-cosmos.com
+127.0.0.1 mb-prod-ui.mb-cosmos.com
+127.0.0.1 www.mb-cosmos.com
+127.0.0.1 bae.mb-cosmos.com
+127.0.0.1 staging-mbarw-upload.mb-cosmos.com
+127.0.0.1 mbarw.mb-cosmos.com
+127.0.0.1 mbae.mb-cosmos.com
 
 ## PUBMATIC
 #S
