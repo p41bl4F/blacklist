@@ -218,6 +218,9 @@
 127.0.0.1 sawhitpew.site
 127.0.0.1 curriculture.com
 127.0.0.1 arkaleaid.club
+127.0.0.1 adj.st
+127.0.0.1 pt.protoawe.com
+127.0.0.1 pto.protoawe.com
 
 ## CN
 127.0.0.1 beian.gov.cn
@@ -1613,6 +1616,15 @@
 127.0.0.1 deal-management.rubiconproject.com
 #E
 
+## REALSRV
+127.0.0.1 realsrv.com
+127.0.0.1 main.realsrv.com
+127.0.0.1 syndication.realsrv.com
+127.0.0.1 a.realsrv.com
+127.0.0.1 ads.realsrv.com
+127.0.0.1 static.realsrv.com
+127.0.0.1 origin-ads.realsrv.com
+
 ## MPARTICLE
 127.0.0.1 mparticle.com
 127.0.0.1 pixels.mparticle.com
@@ -2124,6 +2136,29 @@
 127.0.0.1 cmvn13.linktrackr.com
 127.0.0.1 ww3.linktrackr.com
 
+## S-ONETAG
+127.0.0.1 s-onetag.com
+127.0.0.1 dfp-gateway.s-onetag.com
+127.0.0.1 beacon.s-onetag.com
+127.0.0.1 prebid.s-onetag.com
+127.0.0.1 signal-beacon.s-onetag.com
+127.0.0.1 onetag-geo-grouping.s-onetag.com
+127.0.0.1 geo-location.s-onetag.com
+127.0.0.1 get.s-onetag.com
+127.0.0.1 data-beacons.s-onetag.com
+127.0.0.1 onetag-geo.s-onetag.com
+127.0.0.1 market-dev.s-onetag.com
+127.0.0.1 connect-metrics-collector.s-onetag.com
+127.0.0.1 signal-metrics-collector-beta.s-onetag.com
+127.0.0.1 metrics-collector.s-onetag.com
+127.0.0.1 gam-ad-unit-inspector.s-onetag.com
+127.0.0.1 recommendation-api.s-onetag.com
+127.0.0.1 metrics-collector-beta.s-onetag.com
+127.0.0.1 geo-location-dev.s-onetag.com
+127.0.0.1 signal-metrics-collector-dev.s-onetag.com
+127.0.0.1 metrics-collector-global-accelerator.s-onetag.com
+127.0.0.1 www.s-onetag.com
+
 ## PLATAFORM161
 127.0.0.1 quality.platform161.com
 127.0.0.1 support.platform161.com
@@ -2556,6 +2591,24 @@
 127.0.0.1 msg-0817a46daa3ec1b6d.insurads.com
 127.0.0.1 msg-0de6600dc7960240f.insurads.com
 #E
+
+## INTELLUM
+127.0.0.1 intellum.com
+127.0.0.1 level.andres-bravo.dev.intellum.com
+127.0.0.1 sl.intellum.com
+127.0.0.1 g4s.intellum.com
+127.0.0.1 www.intellum.com
+127.0.0.1 helpdesk.intellum.com
+127.0.0.1 exceed-primary-production-lb.intellum.com
+127.0.0.1 exceed-facebook-production-lb.intellum.com
+127.0.0.1 experience.intellum.com
+127.0.0.1 gce-extexceed-lb1.intellum.com
+127.0.0.1 nick.intellum.com
+127.0.0.1 rollbookhelp.intellum.com
+127.0.0.1 blog.intellum.com
+127.0.0.1 www2.intellum.com
+127.0.0.1 staging.intellum.com
+127.0.0.1 athena.intellum.com
 
 ## MOBILEAPPTRACKING
 127.0.0.1 191307.engine.mobileapptracking.com
