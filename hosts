@@ -55,6 +55,7 @@
 127.0.0.1 adello.com
 127.0.0.1 adelphic.com
 127.0.0.1 s28597.pcdn.co
+127.0.0.1 s14415.pcdn.co
 127.0.0.1 static.adhood.com
 127.0.0.1 satisortakligi.com
 127.0.0.1 youcan.com.tr
@@ -196,6 +197,7 @@
 127.0.0.1 sdownload.net
 127.0.0.1 trends.placer.ai
 127.0.0.1 www.placer.ai
+127.0.0.1 website.kinsta.placer.ai
 127.0.0.1 analytics.placer.ai
 127.0.0.1 2019trends.placer.ai
 127.0.0.1 staging-analytics.placer.ai
@@ -221,6 +223,43 @@
 127.0.0.1 adj.st
 127.0.0.1 pt.protoawe.com
 127.0.0.1 pto.protoawe.com
+127.0.0.1 web-frontend-dot-sc-analytics.appspot.com
+127.0.0.1 analytics.ahrefs.com
+127.0.0.1 analytics.ticketmaster
+127.0.0.1 web-analytics.smile.io
+127.0.0.1 analytics.trionworlds.com
+127.0.0.1 analytics.shapez.io
+127.0.0.1 y.analytics.yahoo.com
+127.0.0.1 assets.ub-analytics.com
+127.0.0.1 events.ub-analytics.com
+127.0.0.1 amp.ub-analytics.com
+127.0.0.1 events-integration.ub-analytics.com
+127.0.0.1 www.ub-analytics.de
+127.0.0.1 ubanalytics.com
+127.0.0.1 www.fb-analytics.com
+127.0.0.1 analytics.zeekit.co
+127.0.0.1 analytics.getshogun.com
+127.0.0.1 analytics.yopify.com
+127.0.0.1 hexagon-analytics.com
+127.0.0.1 b-0.hexagon-analytics.com
+127.0.0.1 googleads.g.doubleclick.com
+
+## AAJADS
+127.0.0.1 aajads.com
+127.0.0.1 v.aajads.com
+127.0.0.1 profitclicks.aajads.com
+127.0.0.1 mail.aajads.com
+127.0.0.1 webdisk.aajads.com
+127.0.0.1 cpcontacts.aajads.com
+127.0.0.1 pay4click.aajads.com
+127.0.0.1 cpcalendars.aajads.com
+127.0.0.1 cpanel.aajads.com
+127.0.0.1 webmail.aajads.com
+127.0.0.1 www.aajads.com
+127.0.0.1 amazon.aajads.com
+127.0.0.1 facebook.aajads.com
+127.0.0.1 ads.aajads.com
+127.0.0.1 minijob.aajads.com
 
 ## AAXADS
 127.0.0.1 aaxads.com
@@ -282,8 +321,34 @@
 127.0.0.1 trk.adpxl.co
 127.0.0.1 adpxljs.adpxl.co
 
+## ADVANCED-WEB-ANALYTICS
+127.0.0.1 awuse4.advanced-web-analytics.com
+127.0.0.1 aweucn1.advanced-web-analytics.com
+127.0.0.1 aweucn1-2.advanced-web-analytics.com
+127.0.0.1 awapse2.advanced-web-analytics.com
+127.0.0.1 awapne4.advanced-web-analytics.com
+127.0.0.1 awuse1.advanced-web-analytics.com
+127.0.0.1 awuseb.advanced-web-analytics.com
+127.0.0.1 awuse5.advanced-web-analytics.com
+127.0.0.1 aweuwv.advanced-web-analytics.com
+127.0.0.1 awuse3.advanced-web-analytics.com
+127.0.0.1 aweuw3.advanced-web-analytics.com
+127.0.0.1 awapne3.advanced-web-analytics.com
+127.0.0.1 aweuw5.advanced-web-analytics.com
+127.0.0.1 comaweucn1.advanced-web-analytics.com
+127.0.0.1 7aweucn1.advanced-web-analytics.com
+127.0.0.1 awuse2.advanced-web-analytics.com
+127.0.0.1 awapne1.advanced-web-analytics.com
+127.0.0.1 xn--aweuw3-hta.advanced-web-analytics.com
+127.0.0.1 aweuw1.advanced-web-analytics.com
+127.0.0.1 awusw1.advanced-web-analytics.com
+127.0.0.1 aweuw2.advanced-web-analytics.com
+127.0.0.1 awapse1.advanced-web-analytics.com
+127.0.0.1 aweuw4.advanced-web-analytics.com
+127.0.0.1 awuse6.advanced-web-analytics.com
+127.0.0.1 www.advanced-web-analytics.com
+
 ## ADVERTISING
-#S
 127.0.0.1 advertising.com
 127.0.0.1 ee01job.advertising.com
 127.0.0.1 cmp.advertising.com
@@ -386,7 +451,6 @@
 127.0.0.1 by.advertising.com
 127.0.0.1 opera3-servedby.advertising.com
 127.0.0.1 secure.advertising.com
-#E
 
 ## ADZERK
 127.0.0.1 adzerk.net
@@ -490,6 +554,24 @@
 127.0.0.1 e-9696.adzerk.net
 127.0.0.1 e-9663-us-east-1.adzerk.net
 127.0.0.1 e-4156-us-east-1.adzerk.net
+
+## AFSANALYTICS
+127.0.0.1 afsanalytics.com
+127.0.0.1 dev.afsanalytics.com
+127.0.0.1 code.afsanalytics.com
+127.0.0.1 www.afsanalytics.com
+127.0.0.1 new.afsanalytics.com
+127.0.0.1 www2.afsanalytics.com
+127.0.0.1 www3.afsanalytics.com
+127.0.0.1 www8.afsanalytics.com
+127.0.0.1 www9.afsanalytics.com
+127.0.0.1 www6.afsanalytics.com
+127.0.0.1 www5.afsanalytics.com
+127.0.0.1 partner.afsanalytics.com
+127.0.0.1 www1.afsanalytics.com
+127.0.0.1 www7.afsanalytics.com
+127.0.0.1 forum.afsanalytics.com
+127.0.0.1 www4.afsanalytics.com
 
 ## AMAZON-ADSYSTEM
 127.0.0.1 amazon-adsystem.com
@@ -602,7 +684,6 @@
 127.0.0.1 ms.applvn.com
 
 ## APPNEXUS
-#S
 127.0.0.1 appnexus.com
 127.0.0.1 www.appnexus.com
 127.0.0.1 blog.appnexus.com
@@ -704,7 +785,6 @@
 127.0.0.1 01.exch-proxy.nym2.appnexus.com
 127.0.0.1 06-exch-nym2.ad.corp.appnexus.com
 127.0.0.1 rt.lax1.appnexus.com
-#E
 
 ## APPSFLYER
 127.0.0.1 appsflyer.com
@@ -774,6 +854,35 @@
 127.0.0.1 expert.branch.io
 127.0.0.1 qa.dashboard.beta.branch.io
 127.0.0.1 www.branch.io
+
+## BRANDCRUMB
+127.0.0.1 brandcrumb.com
+127.0.0.1 static.brandcrumb.com
+127.0.0.1 bankiaeasy.brandcrumb.com
+127.0.0.1 analytics.brandcrumb.com
+127.0.0.1 gw.brandcrumb.com
+127.0.0.1 mail.brandcrumb.com
+127.0.0.1 www.brandcrumb.com
+127.0.0.1 bankia-mobile.brandcrumb.com
+127.0.0.1 news-dharma.brandcrumb.com
+127.0.0.1 bankia.analytics.aws.brandcrumb.com
+127.0.0.1 news.dharma.aws.brandcrumb.com
+127.0.0.1 dharma.analytics.aws.brandcrumb.com
+127.0.0.1 ccf.analytics.brandcrumb.com
+127.0.0.1 brands.brandcrumb.com
+127.0.0.1 dharma.analytics.brandcrumb.com
+127.0.0.1 dmp.dharma.brandcrumb.com
+127.0.0.1 bankia.analytics.brandcrumb.com
+127.0.0.1 sync.analytics.aws.brandcrumb.com
+127.0.0.1 dmp.analytics.brandcrumb.com
+127.0.0.1 analytics.staging.aws.brandcrumb.com
+127.0.0.1 sync.analytics.brandcrumb.com
+127.0.0.1 gw.aws.brandcrumb.com
+127.0.0.1 media.aws.brandcrumb.com
+127.0.0.1 media.brandcrumb.com
+127.0.0.1 analytics.aws.brandcrumb.com
+127.0.0.1 static.aws.brandcrumb.com
+127.0.0.1 www.aws.brandcrumb.com
 
 ## BRAZE
 127.0.0.1 braze.com
@@ -879,7 +988,6 @@
 127.0.0.1 www.talar.iad-03.braze.com
 
 ## BUYSELLADS
-#S
 127.0.0.1 buysellads.com
 127.0.0.1 www.buysellads.com
 127.0.0.1 servedby-buysellads.com
@@ -945,7 +1053,6 @@
 127.0.0.1 ads.buysellads.com
 127.0.0.1 static.buysellads.com
 127.0.0.1 track.buysellads.com
-#E
 
 ## BYSIDE
 127.0.0.1 byside.com
@@ -1386,6 +1493,109 @@
 127.0.0.1 s1271891940.t.eloqua.com
 127.0.0.1 s2646.t.eloqua.com
 
+## FITANALYTICS
+127.0.0.1 fitanalytics.com
+127.0.0.1 collector-de.fitanalytics.com
+127.0.0.1 collector.fitanalytics.com
+127.0.0.1 metrics.fitanalytics.com
+127.0.0.1 widget.fitanalytics.com
+127.0.0.1 integrations.fitanalytics.com
+127.0.0.1 ext-auth.fitanalytics.com
+127.0.0.1 auth.fitanalytics.com
+127.0.0.1 clients.fitanalytics.com
+127.0.0.1 developers.fitanalytics.com
+127.0.0.1 front-staging6.fitanalytics.com
+127.0.0.1 metrics-staging19.fitanalytics.com
+127.0.0.1 metrics-staging16.fitanalytics.com
+127.0.0.1 style-recommender-staging7.fitanalytics.com
+127.0.0.1 front-staging7.fitanalytics.com
+127.0.0.1 metrics-staging2.fitanalytics.com
+127.0.0.1 metrics-staging4.fitanalytics.com
+127.0.0.1 style-recommender-staging16.fitanalytics.com
+127.0.0.1 metrics-staging15.fitanalytics.com
+127.0.0.1 style-recommender-staging19.fitanalytics.com
+127.0.0.1 front-staging19.fitanalytics.com
+127.0.0.1 metrics-staging14.fitanalytics.com
+127.0.0.1 style-recommender-staging18.fitanalytics.com
+127.0.0.1 style-recommender-staging5.fitanalytics.com
+127.0.0.1 style-recommender-staging17.fitanalytics.com
+127.0.0.1 style-recommender-staging15.fitanalytics.com
+127.0.0.1 front-staging12.fitanalytics.com
+127.0.0.1 front-staging14.fitanalytics.com
+127.0.0.1 metrics-staging13.fitanalytics.com
+127.0.0.1 style-recommender-staging12.fitanalytics.com
+127.0.0.1 recommend-staging3.fitanalytics.com
+127.0.0.1 recommend-staging11.fitanalytics.com
+127.0.0.1 style-recommender-staging11.fitanalytics.com
+127.0.0.1 metrics-staging7.fitanalytics.com
+127.0.0.1 recommend-staging18.fitanalytics.com
+127.0.0.1 front-staging3.fitanalytics.com
+127.0.0.1 metrics-staging3.fitanalytics.com
+127.0.0.1 recommend-staging8.fitanalytics.com
+127.0.0.1 recommend-staging5.fitanalytics.com
+127.0.0.1 front-staging5.fitanalytics.com
+127.0.0.1 recommend-staging2.fitanalytics.com
+127.0.0.1 style-recommender-staging9.fitanalytics.com
+127.0.0.1 front-staging4.fitanalytics.com
+127.0.0.1 style-recommender-staging4.fitanalytics.com
+127.0.0.1 style-recommender-staging6.fitanalytics.com
+127.0.0.1 metrics-staging6.fitanalytics.com
+127.0.0.1 metrics-staging10.fitanalytics.com
+127.0.0.1 front-staging1.fitanalytics.com
+127.0.0.1 recommend-staging1.fitanalytics.com
+127.0.0.1 style-recommender-staging10.fitanalytics.com
+127.0.0.1 recommend-staging10.fitanalytics.com
+127.0.0.1 gocload-grading.fitanalytics.com
+127.0.0.1 grafana-staging.fitanalytics.com
+127.0.0.1 gocload-staging1.fitanalytics.com
+127.0.0.1 ibis.fitanalytics.com
+127.0.0.1 fit-intelligence.fitanalytics.com
+127.0.0.1 yopass.fitanalytics.com
+127.0.0.1 db-monitoring.fitanalytics.com
+127.0.0.1 images.fitanalytics.com
+127.0.0.1 dgraph-staging1.fitanalytics.com
+127.0.0.1 metrics-nl.fitanalytics.com
+127.0.0.1 recommend-production.fitanalytics.com
+127.0.0.1 front-production.fitanalytics.com
+127.0.0.1 wgi.fitanalytics.com
+127.0.0.1 garments.fitanalytics.com
+127.0.0.1 grafana-production.fitanalytics.com
+127.0.0.1 metrics-production.fitanalytics.com
+127.0.0.1 metrics-sandbox.fitanalytics.com
+127.0.0.1 staging6.fitanalytics.com
+127.0.0.1 metrics-staging20.fitanalytics.com
+127.0.0.1 style-recommender-staging20.fitanalytics.com
+127.0.0.1 front-staging20.fitanalytics.com
+127.0.0.1 recommend-staging20.fitanalytics.com
+127.0.0.1 dashboards-clients.fitanalytics.com
+127.0.0.1 customizations.fitanalytics.com
+127.0.0.1 dashboards.fitanalytics.com
+127.0.0.1 meet.fitanalytics.com
+127.0.0.1 blog.fitanalytics.com
+127.0.0.1 recommend-staging15.fitanalytics.com
+127.0.0.1 front-staging18.fitanalytics.com
+127.0.0.1 recommend-staging7.fitanalytics.com
+127.0.0.1 front-staging2.fitanalytics.com
+127.0.0.1 recommend-staging16.fitanalytics.com
+127.0.0.1 style-recommender-staging3.fitanalytics.com
+127.0.0.1 style-recommender-staging13.fitanalytics.com
+127.0.0.1 front-staging16.fitanalytics.com
+127.0.0.1 front-staging13.fitanalytics.com
+127.0.0.1 recommend-staging12.fitanalytics.com
+127.0.0.1 front-staging8.fitanalytics.com
+127.0.0.1 style-recommender-staging8.fitanalytics.com
+127.0.0.1 metrics-staging5.fitanalytics.com
+127.0.0.1 recommend-staging9.fitanalytics.com
+127.0.0.1 metrics-staging9.fitanalytics.com
+127.0.0.1 front-staging10.fitanalytics.com
+127.0.0.1 metrics-staging1.fitanalytics.com
+127.0.0.1 bi-api.fitanalytics.com
+127.0.0.1 media.fitanalytics.com
+127.0.0.1 www.fitanalytics.com
+127.0.0.1 return-prediction-api-staging14.fitanalytics.com
+127.0.0.1 return-prediction-api-staging17.fitanalytics.com
+127.0.0.1 recommend-staging14.fitanalytics.com
+
 ## FOXNETWORKS
 127.0.0.1 foxnetworks.com
 127.0.0.1 ad.foxnetworks.com
@@ -1658,14 +1868,19 @@
 127.0.0.1 try.instabug.com
 
 ## INSURADS
-#S
 127.0.0.1 insurads.com
 127.0.0.1 msg-0d5efe6ec0aeb524b.insurads.com
 127.0.0.1 services.insurads.com
 127.0.0.1 msg-08982c96ef90bee9e.insurads.com
 127.0.0.1 messaging.insurads.com
 127.0.0.1 cdn.insurads.com
+127.0.0.1 msg-0b1f49ff87edf257c.insurads.com
+127.0.0.1 msg-0f98eb0f3114895df.insurads.com
+127.0.0.1 msg-0cfdcbc793b39227f.insurads.com
+127.0.0.1 msg-0a898e051f68e9827.insurads.com
+127.0.0.1 msg-0b7d0f2f0ff6c906b.insurads.com
 127.0.0.1 msg-01a0b3e232ff1c971.insurads.com
+127.0.0.1 msg-0099bd0f4c6206109.insurads.com
 127.0.0.1 msg-0166991a002779656.insurads.com
 127.0.0.1 msg-0fcfd37985c3a426c.insurads.com
 127.0.0.1 msg-068cd9f3e291f0eec.insurads.com
@@ -1761,7 +1976,6 @@
 127.0.0.1 msg-020d43003ee03bf9d.insurads.com
 127.0.0.1 msg-0817a46daa3ec1b6d.insurads.com
 127.0.0.1 msg-0de6600dc7960240f.insurads.com
-#E
 
 ## INTELLUM
 127.0.0.1 intellum.com
@@ -1860,7 +2074,6 @@
 127.0.0.1 mbae.mb-cosmos.com
 
 ## MEDIAMATH
-#S
 127.0.0.1 mediamath.com
 127.0.0.1 www.mediamath.com
 127.0.0.1 byoa.mediamath.com
@@ -1930,10 +2143,8 @@
 127.0.0.1 cs.mediamath.com
 127.0.0.1 ewr-rtsdb-x1.mediamath.com
 127.0.0.1 t1apps.mediamath.com
-#E
 
 ## MOATADS
-#S
 127.0.0.1 moatads.com
 127.0.0.1 logtest.moatads.com
 127.0.0.1 apx.moatads.com
@@ -2035,7 +2246,6 @@
 127.0.0.1 sej.moatads.com
 127.0.0.1 mail.moatads.com
 127.0.0.1 1z.moatads.com
-#E
 
 ## MOBILEAPPTRACKING
 127.0.0.1 191307.engine.mobileapptracking.com
@@ -2272,7 +2482,6 @@
 127.0.0.1 fs.corp.mparticle.com
 
 ## MYCDN.CO
-#S
 127.0.0.1 mycdn.co
 127.0.0.1 p215223.mycdn.co
 127.0.0.1 p392172.mycdn.co
@@ -2375,10 +2584,8 @@
 127.0.0.1 p394447.mycdn.co
 127.0.0.1 p392247.mycdn.co
 127.0.0.1 p121145.mycdn.co
-#E
 
 ## NEWRELIC
-#S
 127.0.0.1 newrelic.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 support.newrelic.com
@@ -2475,7 +2682,6 @@
 127.0.0.1 collector-222.newrelic.com
 127.0.0.1 collector-293.newrelic.com
 127.0.0.1 public-service-gateway.dr.newrelic.com
-#E
 
 ## NIELSEN-ONLINE
 127.0.0.1 nielsen-online.com
@@ -2645,6 +2851,79 @@
 127.0.0.1 46995575-app.customer.pendo.io
 127.0.0.1 65411061-cdn.customer.pendo.io
 127.0.0.1 successlinks.pendo.io
+
+## PIXLEE
+127.0.0.1 pixlee.com
+127.0.0.1 pixlee.co
+127.0.0.1 inbound-analytics.pixlee.com
+127.0.0.1 assets.pixlee.com
+127.0.0.1 static.pixlee.com
+127.0.0.1 distillery.pixlee.com
+127.0.0.1 mrsoftee.pixlee.com
+127.0.0.1 socialfeed.pixlee.com
+127.0.0.1 product-taggin.pixlee.com
+127.0.0.1 instafeed.pixlee.com
+127.0.0.1 trust.pixlee.com
+127.0.0.1 www.pixlee.com
+127.0.0.1 shopig-shopify.pixlee.com
+127.0.0.1 beta-photos.pixlee.com
+127.0.0.1 staging2-distillery.pixlee.com
+127.0.0.1 tinyrick.pixlee.com
+127.0.0.1 product-tagging-beta.pixlee.com
+127.0.0.1 beta2-distillery.pixlee.com
+127.0.0.1 sfmc.pixlee.com
+127.0.0.1 email.pixlee.com
+127.0.0.1 product-tagging-staging.pixlee.com
+127.0.0.1 staging-photos.pixlee.com
+127.0.0.1 product-tagging.pixlee.com
+127.0.0.1 backstage-photos.pixlee.com
+127.0.0.1 billing.pixlee.com
+127.0.0.1 distillery-analytics.pixlee.com
+127.0.0.1 blog.pixlee.com
+127.0.0.1 photos.pixlee.com
+127.0.0.1 beta2-photos.pixlee.com
+127.0.0.1 api.pixlee.com
+127.0.0.1 bigcommerce.pixlee.com
+127.0.0.1 shopify.pixlee.com
+127.0.0.1 beta.pixlee.com
+127.0.0.1 instafeed-api.pixlee.com
+127.0.0.1 beta-distillery.pixlee.com
+127.0.0.1 backstage.pixlee.com
+127.0.0.1 app.pixlee.com
+127.0.0.1 landing.pixlee.com
+127.0.0.1 developers.pixlee.com
+127.0.0.1 demos.pixlee.com
+127.0.0.1 staging.pixlee.com
+127.0.0.1 info.pixlee.com
+127.0.0.1 content.pixlee.com
+127.0.0.1 download.pixlee.com
+127.0.0.1 docs.pixlee.com
+127.0.0.1 mattel-photos.pixlee.com
+127.0.0.1 dev.pixlee.com
+127.0.0.1 try.pixlee.com
+127.0.0.1 product-taggingg.pixlee.com
+127.0.0.1 developer.pixlee.com
+127.0.0.1 instafeed.assets.pixlee.com
+127.0.0.1 tinyrick-staging.pixlee.com
+127.0.0.1 analytics-dashboard.pixlee.com
+127.0.0.1 analytics.dev.pixlee.com
+127.0.0.1 go.pixlee.com
+127.0.0.1 beta.assets.pixlee.com
+127.0.0.1 mattel.assets.pixlee.com
+127.0.0.1 phab.pixlee.com
+127.0.0.1 meta.pixlee.com
+127.0.0.1 instafeed.pixlee.co
+127.0.0.1 distillery.pixlee.co
+127.0.0.1 photos.pixlee.co
+127.0.0.1 inbound-analytics.pixlee.co
+127.0.0.1 www.pixlee.co
+127.0.0.1 socialfeed.pixlee.co
+127.0.0.1 instafeed-api.pixlee.co
+127.0.0.1 beta-photos.pixlee.co
+127.0.0.1 beta2-distillery.pixlee.co
+127.0.0.1 ap-photos.pixlee.co
+127.0.0.1 beta-distillery.pixlee.co
+127.0.0.1 beta2-photos.pixlee.co
 
 ## PLACER.IO
 127.0.0.1 placer.io
@@ -2821,7 +3100,6 @@
 127.0.0.1 pi.profitwell.com
 
 ## PUBMATIC
-#S
 127.0.0.1 pubmatic.com
 127.0.0.1 showads.pubmatic.com
 127.0.0.1 track.pubmatic.com
@@ -2923,7 +3201,6 @@
 127.0.0.1 spug33000.pubmatic.com
 127.0.0.1 pugm22000nfc.pubmatic.com
 127.0.0.1 showads22000nfc.pubmatic.com
-#E
 
 ## QUALTRICS
 127.0.0.1 qualtrics.com
@@ -3041,7 +3318,6 @@
 127.0.0.1 origin-ads.realsrv.com
 
 ## RUBICONPROJECT
-#S
 127.0.0.1 rubiconproject.com
 127.0.0.1 prebid-server-aws-euw1.rubiconproject.com
 127.0.0.1 prebid-server-aws-euc1.rubiconproject.com
@@ -3158,7 +3434,6 @@
 127.0.0.1 toastmasters.rubiconproject.com
 127.0.0.1 resources.rubiconproject.com
 127.0.0.1 deal-management.rubiconproject.com
-#E
 
 ## S-ONETAG
 127.0.0.1 s-onetag.com
@@ -3386,7 +3661,6 @@
 127.0.0.1 forge.sentry.io
 
 ## SHARETHIS
-#S
 127.0.0.1 sharethis.com
 127.0.0.1 wd-edge.sharethis.com
 127.0.0.1 sd.sharethis.com
@@ -3462,7 +3736,6 @@
 127.0.0.1 adops.sharethis.com
 127.0.0.1 btr.sharethis.com
 127.0.0.1 wp-uploads.sharethis.com
-#E
 
 ## SUMOLOGIC
 127.0.0.1 sumologic.com
@@ -3553,7 +3826,6 @@
 127.0.0.1 track.zapsocial.themig.com
 
 ## TRAFFICMANAGER
-#S
 127.0.0.1 trafficmanager.net
 127.0.0.1 nmbbanknepal.trafficmanager.net
 127.0.0.1 suppliers-tracking-live-api.trafficmanager.net
@@ -3655,7 +3927,124 @@
 127.0.0.1 bingshoppingtool-t2app-prod.trafficmanager.net
 127.0.0.1 azurehealthprd.trafficmanager.net
 127.0.0.1 msexpense2courierserviceuat.trafficmanager.net
-#E
+
+## TREMORHUB
+127.0.0.1 tremorhub.com
+127.0.0.1 appnexus-partners.tremorhub.com
+127.0.0.1 11s02-w3opb.ads.tremorhub.com
+127.0.0.1 pc041-nsg2n.ads.tremorhub.com
+127.0.0.1 partners.tremorhub.com
+127.0.0.1 4cywq-eqnre.ads.tremorhub.com
+127.0.0.1 events.tremorhub.com
+127.0.0.1 slckg-lyoc5.ads.tremorhub.com
+127.0.0.1 qds0l.ads.tremorhub.com
+127.0.0.1 qds0l.publishers.tremorhub.com
+127.0.0.1 xx6bg-24zk9.ads.tremorhub.com
+127.0.0.1 scm.publishers.tremorhub.com
+127.0.0.1 63g8m-kc3oz.ads.tremorhub.com
+127.0.0.1 nj7t1-69efn.ads.tremorhub.com
+127.0.0.1 playbuzzmm.ads.tremorhub.com
+127.0.0.1 eyeview-partners.tremorhub.com
+127.0.0.1 config.tremorhub.com
+127.0.0.1 slckg-2p3vy.ads.tremorhub.com
+127.0.0.1 cdn.tremorhub.com
+127.0.0.1 cguke-s6qx9.ads.tremorhub.com
+127.0.0.1 cguke-4gh7h.ads.tremorhub.com
+127.0.0.1 taboola-supply-partners.tremorhub.com
+127.0.0.1 cguke-1chj9.ads.tremorhub.com
+127.0.0.1 9rmjh-3mz81.ads.tremorhub.com
+127.0.0.1 5nbh3-h9cpz.ads.tremorhub.com
+127.0.0.1 criteo-partners.tremorhub.com
+127.0.0.1 h250p-wxruy.ads.tremorhub.com
+127.0.0.1 1lniu-yllm6.ads.tremorhub.com
+127.0.0.1 pc130-zrfw4.ads.tremorhub.com
+127.0.0.1 gklfs-x8k98.ads.tremorhub.com
+127.0.0.1 f52o6.ads.tremorhub.com
+127.0.0.1 cguke-td2s6.ads.tremorhub.com
+127.0.0.1 9rmjh-baogr.ads.tremorhub.com
+127.0.0.1 ig0up-i9q61.ads.tremorhub.com
+127.0.0.1 bktr2-06hdl.ads.tremorhub.com
+127.0.0.1 2g44a-9e2rm.ads.tremorhub.com
+127.0.0.1 pbs.publishers.tremorhub.com
+127.0.0.1 gklfs-idnhw.ads.tremorhub.com
+127.0.0.1 63g8m-y2tv2.ads.tremorhub.com
+127.0.0.1 5ew8d-gibwu.ads.tremorhub.com
+127.0.0.1 ufjh3-9euo9.ads.tremorhub.com
+127.0.0.1 8unl5-kl723.ads.tremorhub.com
+127.0.0.1 9rmjh-t0k0q.ads.tremorhub.com
+127.0.0.1 bm8d1-pj1nz.ads.tremorhub.com
+127.0.0.1 h1g6u-g6nfk.ads.tremorhub.com
+127.0.0.1 adelphic-partners.tremorhub.com
+127.0.0.1 ey5io-0gvuy.ads.tremorhub.com
+127.0.0.1 simplifi.partners.tremorhub.com
+127.0.0.1 v4r9z-3jgr1.ads.tremorhub.com
+127.0.0.1 nj7t1-me88i.ads.tremorhub.com
+127.0.0.1 cguke-lp2na.ads.tremorhub.com
+127.0.0.1 connatix-supply-partners.tremorhub.com
+127.0.0.1 9rmjh-goxz8.ads.tremorhub.com
+127.0.0.1 gklfs-giam6.ads.tremorhub.com
+127.0.0.1 5ew8d-b3mmu.ads.tremorhub.com
+127.0.0.1 ufzua-051ht.ads.tremorhub.com
+127.0.0.1 9rmjh-zt7gk.ads.tremorhub.com
+127.0.0.1 xx6bg-yqn64.ads.tremorhub.com
+127.0.0.1 amobee-partners.tremorhub.com
+127.0.0.1 gklfs-fvifs.ads.tremorhub.com
+127.0.0.1 slckg-4znyf.ads.tremorhub.com
+127.0.0.1 sundaysky-partners.tremorhub.com
+127.0.0.1 k71xb-h3k7i.ads.tremorhub.com
+127.0.0.1 ovccn-pxucj.ads.tremorhub.com
+127.0.0.1 m7hdh-2damu.ads.tremorhub.com
+127.0.0.1 qds0l-mcpdh.ads.tremorhub.com
+127.0.0.1 3gxrq-ova6n.ads.tremorhub.com
+127.0.0.1 6psex-axuft.ads.tremorhub.com
+127.0.0.1 8u94z-p8nxh.ads.tremorhub.com
+127.0.0.1 e5ix9-9n155.ads.tremorhub.com
+127.0.0.1 q017o-d42by.ads.tremorhub.com
+127.0.0.1 slckg-nugvu.ads.tremorhub.com
+127.0.0.1 2ciy2-9kbup.ads.tremorhub.com
+127.0.0.1 87uiy.ads.tremorhub.com
+127.0.0.1 q017o-jh7o1.ads.tremorhub.com
+127.0.0.1 h250p-kw5x0.ads.tremorhub.com
+127.0.0.1 playbuzzmobileweb.ads.tremorhub.com
+127.0.0.1 oryj8-jzbmc.ads.tremorhub.com
+127.0.0.1 jrkl5-a40q0.ads.tremorhub.com
+127.0.0.1 rbbat-u6nuf.ads.tremorhub.com
+127.0.0.1 gklfs-lpt35.ads.tremorhub.com
+127.0.0.1 amazon.partners.tremorhub.com
+127.0.0.1 bm8fw-xpghg.ads.tremorhub.com
+127.0.0.1 ey5io-0z2b2.ads.tremorhub.com
+127.0.0.1 jt7xx-nk36o.ads.tremorhub.com
+127.0.0.1 rbbat-exec5.ads.tremorhub.com
+127.0.0.1 15d5k-28bac.ads.tremorhub.com
+127.0.0.1 ey5io-sxabq.ads.tremorhub.com
+127.0.0.1 ads.tremorhub.com
+127.0.0.1 5gn07.ads.tremorhub.com
+127.0.0.1 pc178-brjp4.ads.tremorhub.com
+127.0.0.1 h250p-nj545.ads.tremorhub.com
+127.0.0.1 google.partners.tremorhub.com
+127.0.0.1 6psex-fm1gy.ads.tremorhub.com
+127.0.0.1 hlgam-1lr3d.ads.tremorhub.com
+127.0.0.1 hcvc1-ysgeo.ads.tremorhub.com
+127.0.0.1 vtrdn-wjdav.ads.tremorhub.com
+127.0.0.1 pc051-k4snh.ads.tremorhub.com
+127.0.0.1 6psex-sootr.ads.tremorhub.com
+127.0.0.1 slckg-kqe2e.ads.tremorhub.com
+127.0.0.1 bm8fw-2yrd9.ads.tremorhub.com
+127.0.0.1 s2t3y-2bzbg.ads.tremorhub.com
+
+## TRYZENS-ANALYTICS
+127.0.0.1 tryzens-analytics.com
+127.0.0.1 iploc.tryzens-analytics.com
+127.0.0.1 www.tryzens-analytics.com
+127.0.0.1 con.tryzens-analytics.com
+127.0.0.1 jjo.tryzens-analytics.com
+127.0.0.1 ann.tryzens-analytics.com
+127.0.0.1 wks.tryzens-analytics.com
+127.0.0.1 jvg.tryzens-analytics.com
+127.0.0.1 arg.tryzens-analytics.com
+127.0.0.1 ave.tryzens-analytics.com
+127.0.0.1 csg.tryzens-analytics.com
+127.0.0.1 jws.tryzens-analytics.com
 
 ## VIDEOLOGYGROUP
 127.0.0.1 videologygroup.com
@@ -3692,8 +4081,29 @@
 127.0.0.1 dsp.videologygroup.com
 127.0.0.1 media.videologygroup.com
 
+## VISITOR-ANALYTICS
+127.0.0.1 visitor-analytics.io
+127.0.0.1 loadbalancer.visitor-analytics.io
+127.0.0.1 app-worker.visitor-analytics.io
+127.0.0.1 app.visitor-analytics.io
+127.0.0.1 affiliates.visitor-analytics.io
+127.0.0.1 www.visitor-analytics.io
+127.0.0.1 sa-api.visitor-analytics.io
+127.0.0.1 app-loadbalancer.visitor-analytics.io
+127.0.0.1 support.visitor-analytics.io
+127.0.0.1 demo.visitor-analytics.io
+127.0.0.1 dashboard.visitor-analytics.io
+127.0.0.1 statcounter.visitor-analytics.io
+127.0.0.1 statcounter-de.visitor-analytics.io
+127.0.0.1 dev-load-balancer.visitor-analytics.io
+127.0.0.1 dev.loadbalancer.visitor-analytics.io
+127.0.0.1 api-statcounter-de.visitor-analytics.io
+127.0.0.1 mail.visitor-analytics.io
+127.0.0.1 api.statcounter.visitor-analytics.io
+127.0.0.1 dev.statcounter.visitor-analytics.io
+127.0.0.1 static.email.visitor-analytics.io
+
 ## WEBORAMA
-#S
 127.0.0.1 weborama.com
 127.0.0.1 www.weborama.com
 127.0.0.1 extranet.weborama.com
@@ -3751,7 +4161,6 @@
 127.0.0.1 adcash.ndf.weborama.com
 127.0.0.1 wcm.weborama.com
 127.0.0.1 adperf.ui.weborama.com
-#E
 
 ## ZDASSETS
 127.0.0.1 zdassets.com
