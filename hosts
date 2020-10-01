@@ -292,6 +292,14 @@
 127.0.0.1 weaverich.org
 127.0.0.1 ns1.weaverich.org
 127.0.0.1 ns2.weaverich.org
+127.0.0.1 analytics.getpostman.com
+127.0.0.1 analytics.platoniq.net
+127.0.0.1 analytics.ahrefs.com
+127.0.0.1 crashlyticsreports-pa.googleapis.com
+127.0.0.1 y.analytics.yahoo.com
+127.0.0.1 metrics.abc.es
+127.0.0.1 sabmetrics.abc.es
+127.0.0.1 metrics.heroesandgenerals.com
 
 ## AAJADS.COM
 127.0.0.1 aajads.com
