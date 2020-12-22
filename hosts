@@ -344,6 +344,13 @@
 127.0.0.1 stats.wiz.biz
 127.0.0.1 stats.gc.fe.apple-dns.net
 127.0.0.1 stats.gc.apple.com
+127.0.0.1 ns2.icedleans.com
+127.0.0.1 ns1.icedleans.com
+127.0.0.1 vitals.vercel-analytics.com
+127.0.0.1 fuse.analytics-engine.com
+127.0.0.1 track.analytics-engine.com
+127.0.0.1 server.fuse.analytics-engine.com
+127.0.0.1 pixel.analytics-engine.com
 
 ## AAJADS.COM
 127.0.0.1 aajads.com
@@ -1502,6 +1509,7 @@
 127.0.0.1 email.contentful.com
 
 ## COVEO.COM
+127.0.0.1 coveo.com
 127.0.0.1 usageanalyticsstaging.coveo.com
 127.0.0.1 usageanalytics.coveo.com
 127.0.0.1 usageanalyticsdev.coveo.com
@@ -1886,6 +1894,22 @@
 127.0.0.1 jira.digilant.com
 127.0.0.1 tiki.digilant.com
 127.0.0.1 adboard.digilant.com
+
+## DOTMETRICS.NET
+127.0.0.1 dotmetrics.net
+127.0.0.1 uk-script.dotmetrics.net
+127.0.0.1 test-ui.dotmetrics.net
+127.0.0.1 script.dotmetrics.net
+127.0.0.1 test-api.dotmetrics.net
+127.0.0.1 test-script.dotmetrics.net
+127.0.0.1 upgrade-script.dotmetrics.net
+127.0.0.1 adex.dotmetrics.net
+127.0.0.1 demo-script.dotmetrics.net
+127.0.0.1 www.dotmetrics.net
+127.0.0.1 test-site.dotmetrics.net
+127.0.0.1 api.dotmetrics.net
+127.0.0.1 ui.dotmetrics.net
+127.0.0.1 hr-script.dotmetrics.net
 
 ## ELOQUA.COM
 127.0.0.1 eloqua.com
@@ -4979,6 +5003,9 @@
 127.0.0.1 udd8uxury2yfdrdpbifu3wdmnjiuki6cibgf5inc7e60d667e31720c2am1.e.aa.online-metrix.net
 127.0.0.1 udd8uxur4zthepmey4z3dh3kcxpk6xkwl6mugu4p7321cc80e2a7a0c8am1.e.aa.online-metrix.net
 127.0.0.1 udd8uxurn4antvdrlrxxsxmgyrb5xlhauk6m3736842a9ed5ee04bea6am1.e.aa.online-metrix.net
+127.0.0.1 72k6ns9aqj5gyhvgsgwqskenm2qg7nwexwmwns7g28f99da06c382ca7am1.e.aa.online-metrix.net
+127.0.0.1 72k6ns9aqj5gyhvgsgwqskenm2qg7nwexwmwns7gbcdc2a504f160e1dam1.e.aa.online-metrix.net
+127.0.0.1 72k6ns9aqj5gyhvgsgwqskenm2qg7nwexwmwns7gceae8b2f0a4a4175am1.e.aa.online-metrix.net
 
 ## OPTINMONSTER.COM
 127.0.0.1 optinmonster.com
@@ -5866,6 +5893,28 @@
 127.0.0.1 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
 127.0.0.1 zndmp7hs1p0bgook1-supportspotify.siteintercept.qualtrics.com
 127.0.0.1 zndpq7uw2elr2st9z-forbesbi.siteintercept.qualtrics.com
+
+## READYPULSE.COM
+127.0.0.1 readypulse.com
+127.0.0.1 mx5.readypulse.com
+127.0.0.1 26.readypulse.com
+127.0.0.1 mp3.readypulse.com
+127.0.0.1 academy.readypulse.com
+127.0.0.1 webmail.readypulse.com
+127.0.0.1 widgets.readypulse.com
+127.0.0.1 ux.readypulse.com
+127.0.0.1 ambassadors.readypulse.com
+127.0.0.1 www.readypulse.com
+127.0.0.1 app.readypulse.com
+127.0.0.1 ambassador.readypulse.com
+127.0.0.1 sweepstakes.readypulse.com
+127.0.0.1 assets.readypulse.com
+127.0.0.1 influencers.readypulse.com
+127.0.0.1 go.readypulse.com
+127.0.0.1 info.readypulse.com
+127.0.0.1 marketing.readypulse.com
+127.0.0.1 ww2.readypulse.com
+127.0.0.1 blog.readypulse.com
 
 ## REALSRV.COM
 127.0.0.1 realsrv.com
